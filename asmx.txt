@@ -37,7 +37,6 @@ Accounts.asmx.cs
 AccountService.asmx
 AccountService.asmx.cs
 ActionService.asmx
-adminServices.asmx
 ActivityService.asmx
 ActivityService.asmx.cs
 AddressBookService.asmx
@@ -60,6 +59,7 @@ Administrator.asmx.cs
 AdminNotificationWebService.asmx
 AdminService1.asmx
 AdminService1.asmx.cs
+adminServices.asmx
 AdminWebService.asmx
 AdService.asmx
 AdvanceSearchWebService.asmx
@@ -620,6 +620,8 @@ ExchangeService.asmx
 ExchangeService.asmx.Content
 Facebook.asmx
 Facebook.asmx.cs
+faq.asmx
+faqs.asmx
 FastClassVerifier.java
 FileService.asmx
 FilesystemInfoService.asmx
@@ -1906,8 +1908,6 @@ Weather.asmx.cs
 Weather.asmx.wsdl
 weatherservice.asmx.wsdl
 weatherservice.asmxWrapper.wsdl
-WebShopPhoneSlider.asmx
-WebshopOrderService.asmx
 WebAccessService.asmx
 WebAccessService.asmx.cs
 WebAccessService1.asmx
@@ -1979,6 +1979,8 @@ WebServiceTruyeFile.asmx
 WebServiceTruyenFile.asmx
 WebServiceVeterinaria.asmx
 WebServiceVeterinaria.asmx.cs
+WebshopOrderService.asmx
+WebShopPhoneSlider.asmx
 WebSvr1.asmx
 WebSvr1.asmx.cs
 WechatPalt.asmx
@@ -2044,7 +2046,6 @@ wsvisitas.asmx
 wsWarLife.asmx
 wsWarLife.asmx.cs
 WWTWebService.asmx
-www.dneonline.com_POST_calculator.asmx_fd199.txt
 X-Hardware.asmx
 X-Hardware.asmx.cs
 x16.asmx16
